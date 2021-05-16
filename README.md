@@ -8,7 +8,7 @@ a free market place for fashion companies to source for skilled workers in real 
 
 
 
-# Tailors to feel this for to recieve offers from potential employers
+# Tailor's Form, fill this for to recieve offers from potential employers
 <img src="images/moda/two.png" width="350" height="500px">
 
 
