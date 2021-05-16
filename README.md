@@ -8,26 +8,26 @@ a free market place for fashion companies to source for skilled workers in real 
 
 
 
-# Tailor's Form, fill this for to recieve offers from potential employers
+### Tailor's Form, fill this for to recieve offers from potential employers
 <img src="images/moda/two.png" width="350" height="500px">
 
 
 
-# Sign up page
+### Sign up page
 <img src="images/moda/four.png" width="350" height="500px">
 
 
 
-# Employer's are expected to login to have access to all available tailors
+### Employer's are expected to login to have access to all available tailors
 <img src="images/moda/three.png" width="350" height="500px">
 
 
-# Employer's profile with active Data
+### Employer's profile with active Data
 <img src="images/moda/five.png" width="350" height="500px">
 
 
 
-# Employee's Data update form
+### Employee's Data update form
 <img src="images/moda/six.png" width="350" height="500px">
 
 
