@@ -4,26 +4,26 @@ a free market place for fashion companies to source for skilled workers in real 
 
 > Welcome to Moda App
 > -------------------
-![Alt text](images/moda/one.png "Home Screen")
+![Alt text](images/moda/one.png "Home Screen"){ width: 200px; height: 400px}
 
 
 > Tailors to feel this for to recieve offers from potential employers
-![Alt text](images/moda/two.png "Tailor's form")
+![Alt text](images/moda/two.png "Tailor's form"){ width: 200px; height: 400px}
 
 
 > Sign up page
-![Alt text](images/moda/four.png "Tailor's form")
+![Alt text](images/moda/four.png "Tailor's form"){ width: 200px; height: 400px}
 
 
 > Employer's are expected to login to have access to all available tailors
-![Alt text](images/moda/three.png "Optional Title")
+![Alt text](images/moda/three.png "Optional Title"){ width: 200px; height: 400px}
 
 
 > Employer's profile with active Data
-![Alt text](images/moda/five.png "Optional Title")
+![Alt text](images/moda/five.png "Optional Title"){ width: 200px; height: 400px}
 
 > Employee's Data update form
-![Alt text](images/moda/six.png "Optional Title")
+![Alt text](images/moda/six.png "Optional Title"){ width: 200px; height: 400px}
 
 
 
