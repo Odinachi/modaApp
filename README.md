@@ -4,33 +4,38 @@ a free market place for fashion companies to source for skilled workers in real 
 
 > Welcome to Moda App
 > -------------------
-![Alt text](images/moda/one.png "Home Screen"){ width: 200px; height: 400px}
+<img src="images/moda/one.png" width="200" height="500px">
 
 
-> Tailors to feel this for to recieve offers from potential employers
-![Alt text](images/moda/two.png "Tailor's form"){ width: 200px; height: 400px}
+
+# Tailors to feel this for to recieve offers from potential employers
+<img src="images/moda/two.png" width="200" height="500px">
 
 
-> Sign up page
-![Alt text](images/moda/four.png "Tailor's form"){ width: 200px; height: 400px}
+
+# Sign up page
+<img src="images/moda/four.png" width="200" height="500px">
 
 
-> Employer's are expected to login to have access to all available tailors
-![Alt text](images/moda/three.png "Optional Title"){ width: 200px; height: 400px}
+
+# Employer's are expected to login to have access to all available tailors
+<img src="images/moda/three.png" width="200" height="500px">
 
 
-> Employer's profile with active Data
-![Alt text](images/moda/five.png "Optional Title"){ width: 200px; height: 400px}
+# Employer's profile with active Data
+<img src="images/moda/five.png" width="200" height="500px">
 
-> Employee's Data update form
-![Alt text](images/moda/six.png "Optional Title"){ width: 200px; height: 400px}
+
+
+# Employee's Data update form
+<img src="images/moda/six.png" width="200" height="500px">
 
 
 
 >Todo:
 > 1. Implement peer to peer chat
 > 2. Implement Employee's profile
-> 3. Implement Ecommerce plateform
+> 3. Implement Ecommerce platform
 > 4. Implement CrytoCurrency for transactions withing the ecosystem
 
 
